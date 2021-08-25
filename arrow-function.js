@@ -22,3 +22,9 @@ console.log(sum1, sum2, sum3, sum4);
 
 // }
 
+function add (num1,num2){
+    return num1 +num2;
+}
+
+const sum1 = add(15,17);
+console.log(sum1);
